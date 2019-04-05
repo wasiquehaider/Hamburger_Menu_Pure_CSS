@@ -30,7 +30,7 @@ body {
 }
 .showcase:before {
   content: "";
-  background: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=background-blur-clean-531880.jpg&fm=jpg")
+  background: url('../images/background.jpg')
     no-repeat center center/cover;
   position: absolute;
   top: 0;
